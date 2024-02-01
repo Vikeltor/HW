@@ -11,11 +11,12 @@
 
 
 ### Задание 1 
-
-
-
+![](https://github.com/Vikeltor/HW/blob/main/HW02MON/1-01.png)
 ---
 
 ### Задание 2 
+![](https://github.com/Vikeltor/HW/blob/main/HW02MON/2-01.png)
 
+![](https://github.com/Vikeltor/HW/blob/main/HW02MON/2-02.png)
 
+![](https://github.com/Vikeltor/HW/blob/main/HW02MON/2-03.png)
