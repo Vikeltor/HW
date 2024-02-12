@@ -17,3 +17,4 @@
 ### Задание 2
 
 https://github.com/Vikeltor/HW/blob/main/HW01FLT/check_nginx.sh
+https://github.com/Vikeltor/HW/blob/main/HW01FLT/keepalived.conf
