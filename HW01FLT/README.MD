@@ -13,15 +13,16 @@
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-https://github.com/Vikeltor/HW/blob/main/HW01FLT/1.png
-https://github.com/Vikeltor/HW/blob/main/HW01FLT/2.png
-https://github.com/Vikeltor/HW/blob/main/HW01FLT/3.png
-https://github.com/Vikeltor/HW/blob/main/HW01FLT/4.png
+![alt text](https://github.com/Vikeltor/HW/blob/main/HW01FLT/1.png)
+![alt text](https://github.com/Vikeltor/HW/blob/main/HW01FLT/2.png)
+![alt text](https://github.com/Vikeltor/HW/blob/main/HW01FLT/3.png)
+![alt text](https://github.com/Vikeltor/HW/blob/main/HW01FLT/4.png)
 ------
 ### Задание 2
 
 https://github.com/Vikeltor/HW/blob/main/HW01FLT/check_nginx.sh
 
 https://github.com/Vikeltor/HW/blob/main/HW01FLT/keepalived.conf
-https://github.com/Vikeltor/HW/blob/main/HW01FLT/7.png
-https://github.com/Vikeltor/HW/blob/main/HW01FLT/8.png
+
+![alt text](https://github.com/Vikeltor/HW/blob/main/HW01FLT/7.png)
+![alt text](https://github.com/Vikeltor/HW/blob/main/HW01FLT/8.png)
