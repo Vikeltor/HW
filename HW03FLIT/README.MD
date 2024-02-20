@@ -10,6 +10,8 @@
 
 rsync -av --checksum --delete --exclude=".*/" /home/vikeltor/ /tmp/backup
 
+![](https://github.com/Vikeltor/HW/blob/main/HW03FLIT/03-1.png)
+
 ------
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
