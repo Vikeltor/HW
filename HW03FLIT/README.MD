@@ -20,3 +20,12 @@ rsync -av --checksum --delete --exclude=".*/" /home/vikeltor/ /tmp/backup
 - Резервная копия размещается локально, в директории `/tmp/backup`
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
+#!/bin/bash
+rsync -av --checksum --delete /home/vikeltor/ /tmp/backup/ > /var/log/rsync-backup.log 2>&1
+if [ $? -eq 0 ]; then
+    echo "[$(date)] Резервное копирование выполнено успешно" >> /var/log/rsync-backup.log
+else
+    echo "[$(date)] Резервное копирование не выполнено" >> /var/log/rsync-backup.log
+fi
+![](https://github.com/Vikeltor/HW/blob/main/HW03FLIT/03-2.png)
+
