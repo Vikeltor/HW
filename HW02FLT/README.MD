@@ -10,6 +10,8 @@
 
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
+
+https://github.com/Vikeltor/HW/blob/main/HW02FLT/haproxy.cfg
 ![](https://github.com/Vikeltor/HW/blob/main/HW02FLT/02-1.png)
 ------
 
