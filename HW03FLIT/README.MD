@@ -21,5 +21,9 @@ rsync -av --checksum --delete --exclude=".*/" /home/vikeltor/ /tmp/backup
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 [скрипт](https://github.com/Vikeltor/HW/blob/main/HW03FLIT/vikeltor.sh)
+
+
 [cron](https://github.com/Vikeltor/HW/blob/main/HW03FLIT/vikeltor)
+
+
 ![](https://github.com/Vikeltor/HW/blob/main/HW03FLIT/03-2.png)
