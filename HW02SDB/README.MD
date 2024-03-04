@@ -16,8 +16,7 @@
 
 Установите и запустите memcached.
 
-*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
-dbs02-02
+!()[https://github.com/Vikeltor/HW/blob/main/HW02SDB/dbs02-02.png]
 
 ---
 
