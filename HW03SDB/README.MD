@@ -31,7 +31,7 @@
 Установите и запустите Kibana.
 
 *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
-
+![](https://github.com/Vikeltor/HW/blob/main/HW03SDB/HW03SDB-02-1.png)
 ---
 
 ### Задание 3. Logstash
