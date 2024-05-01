@@ -51,7 +51,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
-![](https://github.com/Vikeltor/HW/blob/main/HW12-02SDB/hw12.2-2.xlsx)
+https://github.com/Vikeltor/HW/blob/main/HW12-02SDB/hw12.2-2.xlsx
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
