@@ -47,13 +47,13 @@ nmap -sUV 172.16.52.128 # инфомация по открытым UDP порт�
 nmap -sV 172.16.52.128 # инфомация по всем открытым TCP портам
 nmap -A 172.16.52.128 # агресивный режим - инфомация по всем открытым TCP портам
 ```
-Список доступных сетевых:
-1
-2
+Список доступных сетевых служб:
+1 
+2 
 
 Список нескольких уязвимостей:
 - [TelnetD encrypt_keyid - Function Pointer Overwrite]   (https://www.exploit-db.com/exploits/18280)                 
--[ ProFTPd IAC 1.3.x - Remote Command Execution] (https://www.exploit-db.com/exploits/15449)
+- [ProFTPd IAC 1.3.x - Remote Command Execution] (https://www.exploit-db.com/exploits/15449)
 - [vsftpd 2.3.4 - Backdoor Command Execution] (https://www.exploit-db.com/exploits/49757)
 - [MySQL 5.0.x - IF Query Handling Remote Denial of Service]  (https://www.exploit-db.com/exploits/30020)
 - [MySQL 5.0.x - Single Row SubSelect Remote Denial of Service] (https://www.exploit-db.com/exploits/29724)
