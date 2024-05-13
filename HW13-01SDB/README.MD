@@ -38,6 +38,26 @@
   
 *Приведите ответ в свободной форме.*  
 
+Сканируем:
+```
+nmap -sSV 172.16.52.128 # инфомация по открытым TCP портам (TCP SYN)
+nmap -sTV 172.16.52.128 # инфомация по открытым TCP портам (TCP Connect)
+nmap -sAV 172.16.52.128 # инфомация по открытым TCP портам (TCP FIN)
+nmap -sUV 172.16.52.128 # инфомация по открытым UDP портам
+nmap -sV 172.16.52.128 # инфомация по всем открытым TCP портам
+nmap -A 172.16.52.128 # агресивный режим - инфомация по всем открытым TCP портам
+```
+Список доступных сетевых:
+1
+2
+
+Список нескольких уязвимостей:
+[TelnetD encrypt_keyid - Function Pointer Overwrite]   (https://www.exploit-db.com/exploits/18280)                 
+[ProFTPd IAC 1.3.x - Remote Command Execution] (https://www.exploit-db.com/exploits/15449)
+[vsftpd 2.3.4 - Backdoor Command Execution] (https://www.exploit-db.com/exploits/49757)
+[MySQL 5.0.x - IF Query Handling Remote Denial of Service]  (https://www.exploit-db.com/exploits/30020)
+[MySQL 5.0.x - Single Row SubSelect Remote Denial of Service] (https://www.exploit-db.com/exploits/29724)
+
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
