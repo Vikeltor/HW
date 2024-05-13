@@ -48,8 +48,8 @@ nmap -sV 172.16.52.128 # инфомация по всем открытым TCP �
 nmap -A 172.16.52.128 # агресивный режим - инфомация по всем открытым TCP портам
 ```
 Список доступных сетевых служб:
-HW13-01-01-1.png
-HW13-01-01-2.png
+![](https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/HW13-01-01-1.png)
+![](https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/HW13-01-01-2.png)
 
 Список нескольких уязвимостей:
 - [TelnetD encrypt_keyid - Function Pointer Overwrite]   (https://www.exploit-db.com/exploits/18280)                 
