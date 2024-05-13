@@ -71,7 +71,7 @@ nmap -A 172.16.52.128 # агресивный режим - инфомация п�
 
 *Приведите ответ в свободной форме.*
 
-()[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-SYN.pcapng]
-()[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-UDP.pcapng]
-()[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-Xmass.pcapng]
-()[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-FIN.pcapng]
+- (SYN)[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-SYN.pcapng]
+- (UDP)[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-UDP.pcapng]
+- (Xmas)[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-Xmass.pcapng]
+- (FIN)[https://github.com/Vikeltor/HW/blob/main/HW13-01SDB/nmap-FIN.pcapng]
