@@ -26,6 +26,7 @@
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 ![](https://github.com/Vikeltor/HW/blob/main/HW13-02SDB/HW13-02-01-01.png)
+![](https://github.com/Vikeltor/HW/blob/main/HW13-02SDB/HW13-02-01-02.png)
 
 ### Задание 2
 
@@ -34,6 +35,9 @@
 3. Зашифруйте созданный раздел с помощью LUKS.
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
+![](https://github.com/Vikeltor/HW/blob/main/HW13-02SDB/HW13-02-02-01.png)
+![](https://github.com/Vikeltor/HW/blob/main/HW13-02SDB/HW13-02-02-02.png)
+
 
 
 
