@@ -25,7 +25,7 @@
 
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
-!(https://github.com/Vikeltor/HW/blob/main/HW13-02SDB/HW13-02-01-01.png)[]
+![](https://github.com/Vikeltor/HW/blob/main/HW13-02SDB/HW13-02-01-01.png)
 
 ### Задание 2
 
